@@ -1,0 +1,8 @@
+[
+    {
+        "ConfigFile": "RSDragonwilds/Saved/Config/WindowsServer/DedicatedServer.ini",
+        "ConfigType": "ini",
+        "AutoMap": true,
+        "Importable": true
+    }
+]

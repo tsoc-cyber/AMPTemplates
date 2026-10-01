@@ -1,0 +1,8 @@
+[
+    {
+        "UpdateStageName": "Install/Update Dragonwilds",
+        "UpdateSourcePlatform": "Windows",
+        "UpdateSource": "SteamCMD",
+        "UpdateSourceData": "4019830"
+    }
+]

@@ -1,1 +1,1 @@
-# AMP-Custom-Template
+# AMPTemplates
